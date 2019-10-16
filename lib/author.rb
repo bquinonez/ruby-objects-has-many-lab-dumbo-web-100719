@@ -26,6 +26,7 @@ class Author
   
   def self.post_count
     @@all << posts
+    @@all
   end
 
 
