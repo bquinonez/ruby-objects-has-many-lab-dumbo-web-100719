@@ -8,4 +8,4 @@ class Post
     @@all << title 
   end
   
-en
+end
