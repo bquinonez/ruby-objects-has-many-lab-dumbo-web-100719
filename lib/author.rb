@@ -24,7 +24,9 @@ class Author
     post.author = self
   end
   
-    def post_co
+  def self.post_count
+    @@all << posts
+  end
 
 
 end
