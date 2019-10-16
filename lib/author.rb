@@ -7,12 +7,8 @@ class Author
    @name = name
  end
 
-  def posts 
-    @posts = posts
-  end 
-
-  def add_posts(post)
-    self.Author
+  def self.all 
+    
   end
 
 end
